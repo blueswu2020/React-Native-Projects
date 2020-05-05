@@ -1,0 +1,6 @@
+rootProject.name = 'AdminProject'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
+//引入baidu地图
+//include ':react-native-baidu-map'
+//project(':react-native-baidu-map').projectDir = new File(settingsDir, '../node_modules/react-native-baidu-map/android')
