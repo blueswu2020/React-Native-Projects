@@ -22,7 +22,7 @@
     "blueimp-md5": "^2.10.0",
     "body-parser": "^1.19.0",
     "expo": "^36.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql": "^2.18.1",
     "react": "16.9.0",
     "react-native": "0.61.5",
